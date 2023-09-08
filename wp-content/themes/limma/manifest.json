@@ -1,0 +1,1821 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Limma - IT Solutions & Services Company Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/askproject.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/askproject.net\/limma\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/askproject.net\/limma\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "http:\/\/askproject.net\/limma\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/askproject.net\/limma\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/askproject.net\/limma\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "http:\/\/askproject.net\/limma\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "http:\/\/askproject.net\/limma\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "http:\/\/askproject.net\/limma\/template-kit\/projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project Detail",
+            "screenshot": "screenshots\/project-detail.jpg",
+            "source": "templates\/project-detail.json",
+            "preview_url": "http:\/\/askproject.net\/limma\/template-kit\/project-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/askproject.net\/limma\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "http:\/\/askproject.net\/limma\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/askproject.net\/limma\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "http:\/\/askproject.net\/limma\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "http:\/\/askproject.net\/limma\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "http:\/\/askproject.net\/limma\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.7.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "WPForms Lite",
+            "version": "1.7.6",
+            "file": "wpforms-lite\/wpforms.php",
+            "author": "WPForms"
+        },
+        {
+            "name": "DethemeKit for Elementor",
+            "version": "2.0.2",
+            "file": "dethemekit-for-elementor\/detheme-kit.php",
+            "author": "deTheme"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.13",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.7.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo_Asset-1-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/logo_Asset-1-1-800x204.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 15696,
+            "dimensions": [
+                1329,
+                339
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "digital-tablet-mockup-967A99B.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/digital-tablet-mockup-967A99B-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 232917,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-967A99B"
+        },
+        {
+            "filename": "young-confident-businesswoman-making-notes-while-w-YXQRWD6.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/young-confident-businesswoman-making-notes-while-w-YXQRWD6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 189660,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YXQRWD6"
+        },
+        {
+            "filename": "smiley-gentleman-standing-in-doorway-of-an-office-94TUFS4.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/smiley-gentleman-standing-in-doorway-of-an-office-94TUFS4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 224031,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-94TUFS4"
+        },
+        {
+            "filename": "client_1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/client_1-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 11803,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/client_2-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 13443,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_4.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/client_4-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 10015,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_6.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/client_6-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 12568,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_7.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/client_7-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 16526,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_8.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/client_8-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 11091,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-female-student-making-notes-in-copybook-whil-G2GHN6Y.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/young-female-student-making-notes-in-copybook-whil-G2GHN6Y-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 167990,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-G2GHN6Y"
+        },
+        {
+            "filename": "fashion-woman-in-black-round-hat-and-leather-rainc-RJ8DCSN.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/fashion-woman-in-black-round-hat-and-leather-rainc-RJ8DCSN-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 84892,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RJ8DCSN"
+        },
+        {
+            "filename": "portrait-of-relaxed-man-at-home-2022-03-08-01-30-22-utc.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/portrait-of-relaxed-man-at-home-2022-03-08-01-30-22-utc-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 125662,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EFLEKCX"
+        },
+        {
+            "filename": "portrait-of-smiling-young-businessman-with-headpho-NCRKBAV.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/portrait-of-smiling-young-businessman-with-headpho-NCRKBAV-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 152047,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NCRKBAV"
+        },
+        {
+            "filename": "portrait-of-a-happy-beautiful-mature-business-woma-UJGMFKA.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/portrait-of-a-happy-beautiful-mature-business-woma-UJGMFKA-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 84581,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UJGMFKA"
+        },
+        {
+            "filename": "numbers_1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/numbers_1-800x504.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 13762,
+            "dimensions": [
+                1000,
+                630
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "numbers_2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/numbers_2-800x504.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 16974,
+            "dimensions": [
+                1000,
+                630
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "numbers_3.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/numbers_3-800x504.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 17332,
+            "dimensions": [
+                1000,
+                630
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-man-drinking-coffee-at-office-desk-3926DV7.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/young-man-drinking-coffee-at-office-desk-3926DV7-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 185510,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3926DV7"
+        },
+        {
+            "filename": "bgoverlay1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/bgoverlay1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 30285,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "smiling-woman-with-clipboard-among-colleagues-in-o-YHDP3P7.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/smiling-woman-with-clipboard-among-colleagues-in-o-YHDP3P7-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 150106,
+            "dimensions": [
+                1200,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YHDP3P7"
+        },
+        {
+            "filename": "simon-lee-IEgvy4o3byM-unsplash.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/simon-lee-IEgvy4o3byM-unsplash-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 68809,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/IEgvy4o3byM"
+        },
+        {
+            "filename": "paul-hanaoka-GqEmWxkPNa4-unsplash.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/paul-hanaoka-GqEmWxkPNa4-unsplash-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 145126,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/GqEmWxkPNa4"
+        },
+        {
+            "filename": "screen-post-7MvFxGjWWVs-unsplash.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/screen-post-7MvFxGjWWVs-unsplash-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 77963,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/7MvFxGjWWVs"
+        },
+        {
+            "filename": "nordwood-themes-Sf2TRU7ShO8-unsplash.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/nordwood-themes-Sf2TRU7ShO8-unsplash-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 112927,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Sf2TRU7ShO8"
+        },
+        {
+            "filename": "david-zieglgansberger-OtcsZfh6G0Y-unsplash.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/david-zieglgansberger-OtcsZfh6G0Y-unsplash-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 48033,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/OtcsZfh6G0Y"
+        },
+        {
+            "filename": "vlad-sargu-5zZW5KxCDSU-unsplash.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/vlad-sargu-5zZW5KxCDSU-unsplash-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 67761,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/5zZW5KxCDSU"
+        },
+        {
+            "filename": "young-woman-sitting-on-chair-using-digital-tablet-EM7WK8E.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/young-woman-sitting-on-chair-using-digital-tablet-EM7WK8E-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 119778,
+            "dimensions": [
+                1200,
+                1798
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EM7WK8E"
+        },
+        {
+            "filename": "young-businesswoman-using-smartphone-touchscreen-i-4WARYLX.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/young-businesswoman-using-smartphone-touchscreen-i-4WARYLX-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 183225,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4WARYLX"
+        },
+        {
+            "filename": "bgoverlay2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/bgoverlay2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 30282,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "quote_bgoverlay4.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/quote_bgoverlay4-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 30281,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "quote_Asset-2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/quote_Asset-2-800x597.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 16842,
+            "dimensions": [
+                1090,
+                814
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "businesswoman-with-laptop-at-office-NVPWG6A.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/businesswoman-with-laptop-at-office-NVPWG6A-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 146308,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NVPWG6A"
+        },
+        {
+            "filename": "clients_1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/clients_1-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 14220,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clients_2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/clients_2-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 11931,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clients_3.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/clients_3-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 10815,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clients_4.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/clients_4-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 14587,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clients_5.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/clients_5-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 13424,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clients_6.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/clients_6-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 6137,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clients_7.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/clients_7-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 11947,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clients_8.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/clients_8-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 6926,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clients_9.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/clients_9-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 10994,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clients_10.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/clients_10-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 16504,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clients_11.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/clients_11-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 14273,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clients_12.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/clients_12-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 8061,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clients_13.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/clients_13-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 19668,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clients_14.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/clients_14-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 10015,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "discussion-in-office-QEK3MWL-e1662084409801.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/discussion-in-office-QEK3MWL-e1662084409801-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 269429,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QEK3MWL"
+        },
+        {
+            "filename": "man-using-smartphone-in-office-PKDLMES.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/man-using-smartphone-in-office-PKDLMES.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 99872,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKDLMES"
+        },
+        {
+            "filename": "young-pretty-blond-female-programmer-in-casualwear-X8ZACE6.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/young-pretty-blond-female-programmer-in-casualwear-X8ZACE6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 129454,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X8ZACE6"
+        },
+        {
+            "filename": "computer-programmer-working-on-computer-J6HR6GV.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/computer-programmer-working-on-computer-J6HR6GV.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 98755,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-J6HR6GV"
+        },
+        {
+            "filename": "man-and-woman-working-in-office-EECVUMA.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/man-and-woman-working-in-office-EECVUMA-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 157616,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EECVUMA"
+        },
+        {
+            "filename": "customer-service-man-at-work-8P44HF4.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/customer-service-man-at-work-8P44HF4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 145218,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8P44HF4"
+        },
+        {
+            "filename": "cropped-image-of-business-people-strategizing-with-G5MYV9G.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/cropped-image-of-business-people-strategizing-with-G5MYV9G-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 242791,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-G5MYV9G"
+        },
+        {
+            "filename": "woman-with-digital-tablet-NPB4G7G.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/woman-with-digital-tablet-NPB4G7G-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 208925,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NPB4G7G"
+        },
+        {
+            "filename": "confident-middle-aged-businesswoman-using-tablet-a-4DZ58N5.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/confident-middle-aged-businesswoman-using-tablet-a-4DZ58N5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 129539,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4DZ58N5"
+        },
+        {
+            "filename": "creative-businessman-looking-at-camera-with-a-seri-MRU39YN.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/creative-businessman-looking-at-camera-with-a-seri-MRU39YN.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 114139,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MRU39YN"
+        },
+        {
+            "filename": "young-developer-working-at-his-workplace-with-comp-GK2DUD8.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/young-developer-working-at-his-workplace-with-comp-GK2DUD8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 108935,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GK2DUD8"
+        },
+        {
+            "filename": "charlesdeluvio-6OF-Ly-5oJY-unsplash.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/charlesdeluvio-6OF-Ly-5oJY-unsplash-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 66749,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/6OF-Ly-5oJY"
+        },
+        {
+            "filename": "nmg-network-1OuY1iPO7pk-unsplash.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/nmg-network-1OuY1iPO7pk-unsplash-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 58027,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/1OuY1iPO7pk"
+        },
+        {
+            "filename": "rahul-chowdhury-6gq1ZbJRhYQ-unsplash.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/09\/rahul-chowdhury-6gq1ZbJRhYQ-unsplash-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 59550,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/6gq1ZbJRhYQ"
+        },
+        {
+            "filename": "404_Asset-3.png",
+            "thumbnail_url": "http:\/\/askproject.net\/limma\/wp-content\/uploads\/sites\/97\/2022\/08\/404_Asset-3-800x309.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 17766,
+            "dimensions": [
+                1382,
+                533
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

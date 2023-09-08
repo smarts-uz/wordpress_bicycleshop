@@ -1,0 +1,454 @@
+2023-08-15T10:06:56+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T10:08:52+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T10:10:00+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T10:13:24+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T10:18:02+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T10:23:05+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T10:27:43+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T10:32:44+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T10:38:53+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T10:42:55+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T11:08:31+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T11:13:31+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T11:18:32+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T11:22:52+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T11:27:44+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T11:32:44+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T11:37:48+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T11:42:42+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T11:53:05+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T11:57:46+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T12:02:48+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T12:08:50+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T12:12:55+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T12:17:49+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T12:23:08+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T12:27:39+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T12:33:29+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T13:21:57+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T13:25:44+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T13:26:33+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\smart-slider-3\Nextend\Framework\FastImageSize\FastImageSize.php on line 190
+
+2023-08-15T13:26:37+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\smart-slider-3\Nextend\Framework\FastImageSize\FastImageSize.php on line 190
+
+2023-08-15T13:26:57+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\smart-slider-3\Nextend\Framework\FastImageSize\FastImageSize.php on line 190
+
+2023-08-15T13:28:59+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T13:33:22+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
+2023-08-15T14:28:35+00:00 CRITICAL Uncaught Exception: Invalid data: {"data":["Array","Array","Array","Array"],"element":"Array"} in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php:962
+Stack trace:
+#0 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(122): Elementor\Core\Base\Document->get_elements_raw_data()
+#1 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\class-astra-sites-batch-processing-elementor.php(66): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import_single_post()
+#2 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\astra-sites\inc\importers\batch-processing\helpers\class-wp-background-process-astra.php(41): Elementor\TemplateLibrary\Astra_Sites_Batch_Processing_Elementor->import()
+#3 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(301): WP_Background_Process_Astra->task()
+#4 D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\libraries\wp-background-process.php(447): WP_Background_Process->handle()
+#5 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Background_Process->handle_cron_healthcheck()
+#6 D:\Programms\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#7 D:\Programms\OSPanel\domains\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action()
+#8 D:\Programms\OSPanel\domains\wordpress\wp-cron.php(191): do_action_ref_array()
+#9 {main}
+  thrown in D:\Programms\OSPanel\domains\wordpress\wp-content\plugins\elementor\core\base\document.php on line 962
+
